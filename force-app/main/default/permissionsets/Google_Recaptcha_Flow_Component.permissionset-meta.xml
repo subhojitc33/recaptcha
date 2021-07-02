@@ -4,10 +4,7 @@
         <apexClass>GoogleRecaptchaHandler</apexClass>
         <enabled>true</enabled>
     </classAccesses>
-    <classAccesses>
-        <apexClass>GoogleRecaptchaHandlerTest</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
+ 
     <description>Gives access to the GoogleRecaptchaHandler and GoogleRecaptchaHandlerTest class.</description>
     <hasActivationRequired>false</hasActivationRequired>
     <label>Google Recaptcha Flow Component</label>
